@@ -1,4 +1,4 @@
-# Docker-compose devoops
+# EcoDev-infra
 
 Repo taking off the shelf docker images for 
 - traefik
